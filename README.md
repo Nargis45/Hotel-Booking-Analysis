@@ -63,5 +63,3 @@
 
 # **Conclusion**
 * Maximum number of bookings are in the month May to August, so hotels should provide exciting deal to customers to increase their booking in off season. As hotels are getting less repeated customers so management should take customer’s feedback and improve the hotel facilities to increase the count of their repeated guests.
-
-* Every year there is 25-30% cancellation for resort hotels and 40-45% cancellation for city hotels.
