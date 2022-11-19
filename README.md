@@ -7,8 +7,8 @@
 # **Dataset Information**
 
 
-*   Number of instances: 4,005
-*   Number of attributes: 19
+*   Number of instances: 119390
+*   Number of attributes: 32
 # **Features information:**
 
 **The dataset contains features like:**
