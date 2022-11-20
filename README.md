@@ -1,6 +1,7 @@
 # Hotel Booking Analysis
 
-![hotel (1)](https://user-images.githubusercontent.com/60965420/202893380-65bfa90f-e277-4c8e-8abc-66821d384eea.jpg)
+
+![dfrnt-types-oof-hotels](https://user-images.githubusercontent.com/60965420/202893508-65590298-147f-4169-a721-dcba2e38623c.jpg)
 
 
 **Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!**
