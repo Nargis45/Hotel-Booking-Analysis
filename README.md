@@ -69,5 +69,6 @@
 # **Conclusion**
 * Maximum number of bookings are in the month May to August, so hotels should provide exciting deal to customers to increase their booking in off season. As hotels are getting less repeated customers so management should take customer’s feedback and improve the hotel facilities to increase the count of their repeated guests.
 
+# **Certificate**
 ![58730754996942](https://user-images.githubusercontent.com/60965420/213905744-6917e1eb-b81e-494a-a6da-086bc574d568.png)
 
